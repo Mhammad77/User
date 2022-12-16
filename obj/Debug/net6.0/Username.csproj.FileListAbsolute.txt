@@ -1,0 +1,15 @@
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\bin\Debug\net6.0\Username.exe
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\bin\Debug\net6.0\Username.deps.json
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\bin\Debug\net6.0\Username.runtimeconfig.json
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\bin\Debug\net6.0\Username.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\bin\Debug\net6.0\Username.pdb
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\obj\Debug\net6.0\Username.csproj.AssemblyReference.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\obj\Debug\net6.0\Username.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\obj\Debug\net6.0\Username.AssemblyInfoInputs.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\obj\Debug\net6.0\Username.AssemblyInfo.cs
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\obj\Debug\net6.0\Username.csproj.CoreCompileInputs.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\obj\Debug\net6.0\Username.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\obj\Debug\net6.0\refint\Username.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\obj\Debug\net6.0\Username.pdb
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\obj\Debug\net6.0\Username.genruntimeconfig.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Username\obj\Debug\net6.0\ref\Username.dll
